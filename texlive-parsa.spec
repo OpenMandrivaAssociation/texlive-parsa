@@ -1,6 +1,6 @@
 Name:		texlive-parsa
 Version:	54840
-Release:	1
+Release:	2
 Summary:	A XeLaTeX package for theses and dissertations at Iranian Universities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/parsa
