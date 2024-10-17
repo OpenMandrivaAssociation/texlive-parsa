@@ -3,7 +3,7 @@ Version:	54840
 Release:	2
 Summary:	A XeLaTeX package for theses and dissertations at Iranian Universities
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/parsa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/parsa
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/parsa.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/parsa.doc.r%{version}.tar.xz
